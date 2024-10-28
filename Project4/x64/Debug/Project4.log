@@ -1,0 +1,25 @@
+﻿  test.cpp
+C:\Users\MBAns\Documents\Project4\test.cpp(209,19): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\MBAns\Documents\Project4\test.cpp(209,19): warning C4244:         with
+C:\Users\MBAns\Documents\Project4\test.cpp(209,19): warning C4244:         [
+C:\Users\MBAns\Documents\Project4\test.cpp(209,19): warning C4244:             T=unsigned int
+C:\Users\MBAns\Documents\Project4\test.cpp(209,19): warning C4244:         ]
+C:\Users\MBAns\Documents\Project4\test.cpp(210,19): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\MBAns\Documents\Project4\test.cpp(210,19): warning C4244:         with
+C:\Users\MBAns\Documents\Project4\test.cpp(210,19): warning C4244:         [
+C:\Users\MBAns\Documents\Project4\test.cpp(210,19): warning C4244:             T=unsigned int
+C:\Users\MBAns\Documents\Project4\test.cpp(210,19): warning C4244:         ]
+C:\Users\MBAns\Documents\Project4\test.cpp(220,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MBAns\Documents\Project4\test.cpp(237,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MBAns\Documents\Project4\test.cpp(251,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MBAns\Documents\Project4\test.cpp(253,19): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\MBAns\Documents\Project4\test.cpp(253,19): warning C4244:         with
+C:\Users\MBAns\Documents\Project4\test.cpp(253,19): warning C4244:         [
+C:\Users\MBAns\Documents\Project4\test.cpp(253,19): warning C4244:             T=unsigned int
+C:\Users\MBAns\Documents\Project4\test.cpp(253,19): warning C4244:         ]
+C:\Users\MBAns\Documents\Project4\test.cpp(254,19): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\MBAns\Documents\Project4\test.cpp(254,19): warning C4244:         with
+C:\Users\MBAns\Documents\Project4\test.cpp(254,19): warning C4244:         [
+C:\Users\MBAns\Documents\Project4\test.cpp(254,19): warning C4244:             T=unsigned int
+C:\Users\MBAns\Documents\Project4\test.cpp(254,19): warning C4244:         ]
+  Project4.vcxproj -> C:\Users\MBAns\Documents\Project4\x64\Debug\Project4.exe
